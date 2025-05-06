@@ -1,3 +1,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/MinjoonHK/resume-auto-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MinjoonHK/resume-auto-backend.git
+[submodule "extension"]
+	path = extension
+	url = https://github.com/MinjoonHK/resume-auto-extension.git
